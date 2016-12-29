@@ -1,0 +1,26 @@
+{
+  "name": "flipdot.js",
+  "version": "0.0.0",
+  "description": "A library for accessing the MUCC Flipdot Display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevWurm",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/es6-promise": "0.0.32",
+    "@types/node": "6.0.54",
+    "typescript": "2.1.4"
+  },
+  "dependencies": {
+    "jimp": "0.2.27"
+  },
+  "keywords": [
+    "flipdot",
+    "flipdots",
+    "display",
+    "image"
+  ],
+  "bugs": "https://github.com/DevWurm/flipdot.js/issues"
+}
